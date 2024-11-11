@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @duncanhpo
 - 👀 I’m interested in flutter and dart programming plus programming with r
-- 🌱 I’m currently learning r 
+- 🌱 I’m currently working on generative AI
 - 💞️ I’m looking to collaborate on flutter projects and big data analysis projects
 - 📫 How to reach me  : duncanhpos@gmail.com
 
